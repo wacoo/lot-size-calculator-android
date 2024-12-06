@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Lot Size Calculator</string>
+    <string-array name="assets_array">
+        <!-- Major Pairs -->
+        <item>EUR/USD</item>
+        <item>GBP/USD</item>
+        <item>USD/JPY</item>
+        <item>USD/CHF</item>
+        <item>AUD/USD</item>
+        <item>USD/CAD</item>
+        <item>NZD/USD</item>
+
+        <!-- Minor Pairs -->
+        <item>EUR/GBP</item>
+        <item>EUR/AUD</item>
+        <item>GBP/JPY</item>
+        <item>EUR/JPY</item>
+        <item>CHF/JPY</item>
+        <item>AUD/JPY</item>
+        <item>NZD/JPY</item>
+
+        <!-- Exotic Pairs -->
+        <item>USD/SEK</item>
+        <item>USD/NOK</item>
+        <item>USD/TRY</item>
+        <item>USD/ZAR</item>
+        <item>EUR/TRY</item>
+        <item>GBP/ZAR</item>
+
+        <!-- Commodities -->
+        <item>Gold (XAU/USD)</item>
+        <item>Silver (XAG/USD)</item>
+        <item>Oil (WTI)</item>
+        <item>Brent Oil</item>
+
+        <!-- Indices -->
+        <item>US30 (Dow Jones)</item>
+        <item>SPX500 (S&amp;P 500)</item>
+        <item>NAS100 (Nasdaq 100)</item>
+        <item>DAX30 (Germany 30)</item>
+        <item>FTSE100 (UK 100)</item>
+
+        <!-- Cryptocurrencies -->
+        <item>BTC/USD (Bitcoin)</item>
+        <item>ETH/USD (Ethereum)</item>
+        <item>LTC/USD (Litecoin)</item>
+        <item>XRP/USD (Ripple)</item>
+    </string-array>
+</resources>
